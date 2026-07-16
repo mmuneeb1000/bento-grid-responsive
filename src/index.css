@@ -62,12 +62,10 @@ h2 {
   }
   main {
     max-width: 1024px;
+    align-content: center;
     margin:0 auto;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(6, 110px);
-    
-    
-
     grid-template-areas:
     "crea rati rati sche"
     "crea rati rati sche"
