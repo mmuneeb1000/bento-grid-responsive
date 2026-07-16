@@ -1,3 +1,9 @@
+import GrowFollowers from "/assets/images/illustration-grow-followers.webp";
 export default function Follower() {
-  return <h1>This is Follower</h1>;
+  return (
+    <section>
+      <img src={GrowFollowers} />
+      <h2>Grow followers with non-stop content</h2>
+    </section>
+  );
 }

@@ -1,3 +1,12 @@
+import AIChat from "/assets/images/illustration-ai-content.webp";
+
 export default function AiContent() {
-  return <h1>This is AiContent</h1>;
+  return (
+    <section>
+      <h2>Write your content using Ai.</h2>
+      <div>
+        <img src={AIChat} />
+      </div>
+    </section>
+  );
 }

@@ -1,3 +1,10 @@
+import CreatePost from "/assets/images/illustration-create-post.webp";
+
 export default function Create() {
-  return <h1>This is Create</h1>;
+  return (
+    <section>
+      <h2>Create and schedule content quicker.</h2>
+      <img src={CreatePost} />
+    </section>
+  );
 }
