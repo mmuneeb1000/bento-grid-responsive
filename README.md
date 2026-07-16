@@ -137,4 +137,4 @@ Although the project fulfills the challenge requirements, there are several area
 
 - GitHub: https://github.com/mmuneeb1000
 - Portfolio: https://portfolio-developer-muneeb.netlify.app/
-- Linkedin: www.linkedin.com/in/m-muneeb-a9984633b/
+- Linkedin: https://www.linkedin.com/in/m-muneeb-a9984633b/
