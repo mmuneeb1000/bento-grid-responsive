@@ -10,14 +10,16 @@ import Schedule from "./components/Schedule";
 export default function App() {
   return (
     <>
-      <Rating />
-      <Account />
-      <Posting />
-      <Schedule />
-      <Follower />
-      <Growth />
-      <Create />
-      <AiContent />
+      <main className="flex flex-col md:grid gap-4 py-6 px-4">
+        <Rating />
+        <Account />
+        <Posting />
+        <Schedule />
+        <Follower />
+        <Growth />
+        <Create />
+        <AiContent />
+      </main>
     </>
   );
 }
